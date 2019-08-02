@@ -1,6 +1,6 @@
 ---
 title: DanDowArt
-timezone: UTC
+timezone: Europe/Dublin
 collections:
   posts:
     title: Posts
@@ -8,3 +8,4 @@ collections:
   uploads:
     title: Uploads
     output: true
+Field name: 
